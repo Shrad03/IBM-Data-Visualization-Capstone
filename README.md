@@ -4,5 +4,5 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 
 
-![image](https://img-c.udemycdn.com/course/750x422/1922982_e89d.jpg)
+![image]([https://img-c.udemycdn.com/course/750x422/1922982_e89d.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87lsh1zZoDlM9IJpLaO8LKzzs-sxZqYWRWQ&s))
 

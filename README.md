@@ -4,5 +4,5 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 
 
-![image](https://capitalizeconsulting.com/wp-content/uploads/2018/11/IBM-Cognos-analytics-logo-540X280.jpg)
+![image]([https://capitalizeconsulting.com/wp-content/uploads/2018/11/IBM-Cognos-analytics-logo-540X280.jpg](https://ibagroupit.com/wp-content/uploads/2020/05/ibm-cognos-analytics.png))
 
